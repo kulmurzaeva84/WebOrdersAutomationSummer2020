@@ -1,0 +1,4 @@
+.idea
+target
+*.iml
+# things that we don't want to place in git, this helps to avoid merge PR code conflicts at work, overloading when many people push codes
